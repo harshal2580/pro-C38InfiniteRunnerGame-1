@@ -8,7 +8,6 @@ var gameOver, gameOverImage;
 var Play = 1;
 var End = 0;
 var gamestate = Play;
-score=0;
 
 function preload() {
     moonImage=loadImage("Images/moon.png");
